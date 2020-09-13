@@ -1,3 +1,5 @@
+<a href="https://imgur.com/KrPblZK"><img src="https://i.imgur.com/KrPblZK.jpg" title="source: imgur.com" /></a>
+
 # Rilevamento di aree irrigate all'interno della Capitanata
 
 Ecco il mio primo progetto in Pyhton! Si tratta di un progetto di Image Processing in cui lo scopo è quello di rilevare, tramite il satellite Sentinel-2, le aree irrigate. Il fine iniziale era quello di rilevare le suddette aree circoscrivendo lo studio alla zona della Capitanata, un'area nella Puglia settentrionale, ma poi è stato esteso a qualsiasi zona si voglia.
